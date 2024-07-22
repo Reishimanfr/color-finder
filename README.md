@@ -27,3 +27,6 @@ chmod +x ./color-finder
 `--scaling`        - How much should the input image be scaled down by? (default: 1/4, smaller = accurate but slower)<br>
 `--threads`        - Amount of threads to be used by the program. More = faster but more CPU and RAM usage. (default: 20)<br>
 `--debug`          - Should additional data useful for debugging be shown? (default: false)<br>
+
+### How it looks
+![image](https://github.com/user-attachments/assets/a23e6f75-4259-4781-bca0-a01cd425a30e)
